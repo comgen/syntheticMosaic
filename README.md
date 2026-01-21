@@ -1,6 +1,6 @@
-# syntheticMosaic
 
-<p align="center">
+
+<p align="left">
   <img src="logo.jpg" alt="syntheticMosaic Logo" width="300">
 </p>
 
