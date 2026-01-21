@@ -1,16 +1,16 @@
 README for syntheticMosaic
 
-This is a repo for documentating the synthetic mosaic human DNA sample
+We create a synthetic mosaic human DNA sample by spiking 20 oligos with known pathogenic variants into a WT human DNA background. Most variants are placedin MTOR and PIK3CA. We characterise mosaic variant allele frequencies (VAF) in the final sample by ddPCR. We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants)
 
 
-## Creation and characterisation using ddPCR
+### Sample creation and characterisation using ddPCR
 
-- [Word document describing creation of the synthetic DNA sample](010_sampleCreation/syntheticMosaic_README.docx)
+- [Word document describing creation of the synthetic DNA sample](010_sampleCreation/syntheticMosaic_README.docx). This document covers: sample naming, creation protocol, VAF verification, possible application of this sample)
 - [Excel spreadsheet documenting oligos and ddPCR assays used](010_sampleCreation/variants_oligos_synthetic_sample_v1b4.xlsx)
-- [Truth VCF file](010_sampleCreation/mosaic-v01b04_truthVAF.vcf): 20 variants and their ddPCR measured variant allele frequency (VAF)
+- [Truth VCF file](010_sampleCreation/mosaic-v01b04_truthVAF.vcf): 20 variants and their ddPCR measured variant allele frequency (VAF) in the final sample.
 
 
-## WES of sample
+### WES of sample
 
 We performed DNA capture using a whole exome kit and Illumina sequencing of the library
 - [BAM file](020_sampleWholeExomeSeq/synthetic-mosaic_tumor.variantRegions.bam) at the relevant exons is available for inspection in IGV (b37 with decoy reference genome) 
@@ -19,7 +19,7 @@ We performed DNA capture using a whole exome kit and Illumina sequencing of the 
 ![Comparison of ddPCR VAF and BAM VAF](020_sampleWholeExomeSeq/ddPCR-VAFvsBAM-VAF.png)
 
 
-## AmpliconSeq of sample
+### AmpliconSeq of sample
 
 Awaiting the second sequencing and Asbjørn analysis.
 
