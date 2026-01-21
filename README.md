@@ -4,7 +4,9 @@
   <img src="logo.jpg" alt="syntheticMosaic Logo" width="300">
 </p>
 
-We create a synthetic mosaic human DNA sample by spiking 20 oligos with known pathogenic variants into a WT human DNA background. Most variants are placedin MTOR and PIK3CA. We characterise mosaic variant allele frequencies (VAF) in the final sample by ddPCR. We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants)
+We create a synthetic mosaic human DNA sample by spiking 20 oligos with known pathogenic variants into a WT human DNA background. The primary purpose of this sample is to serve as a positive control for pathogenic mosaic variant detection by high throughput sequencing:
+- Most variants are placed in MTOR and PIK3CA. We characterise mosaic variant allele frequencies (VAF) in the final sample by ddPCR.
+- We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants)
 
 
 ### Sample creation and characterisation using ddPCR
