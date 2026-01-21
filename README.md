@@ -16,7 +16,7 @@ We create a synthetic mosaic human DNA sample by spiking 20 500bp oligos with kn
 - [Truth VCF file](010_sampleCreation/mosaic-v01b04_truthVAF.vcf): 20 variants and their ddPCR measured variant allele frequency (VAF) in the final sample.
 
 
-### WES of sample
+### Whole Exome Sequencing (Agilent + Illumina) of sample
 
 We performed DNA capture using a whole exome kit and Illumina sequencing of the library
 - [BAM file](020_sampleWholeExomeSeq/synthetic-mosaic_tumor.variantRegions.bam) at the relevant exons is available for inspection in IGV (b37 with decoy reference genome) 
