@@ -10,9 +10,13 @@ Creation and characterisation using ddPCR:
 
 
 WES of sample:
-- BAM file at the relevant exons. The BAM file with the 21 positions is only 4.1 MB so should be no problem to place this in the repot.
+- BAM file at the relevant exons. The BAM file with the 21 positions is only 4.1 MB so should be no problem to place this in the repo.
 - Show that the oligos with mutations produce reads in a similar way to WT DNA (IGV screenshot)
+
+![IGV screenshot showing mutation reads](020_sampleWholeExomeSeq/IGV_screenshots/AKT3.png)
+
 - Show that the BAM VAF roughly match the ddPCR VAF. It will be interesting to see whether ampliconSeq or WES obtain the best VAF estimate. A better match between ddPCR and ampliconSeq could be due to the fact that both use amplicon based measurements.
 
 
-AmpliconSeq of sample: awaiting the second sequencing and Asbjørn analysis.
+AmpliconSeq of sample:
+- awaiting the second sequencing and Asbjørn analysis.
