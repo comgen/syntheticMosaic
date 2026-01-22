@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  <img src="logo_new.jpg" alt="syntheticMosaic Logo" width="300">
+  <img src="logo.jpg" alt="syntheticMosaic Logo" width="300">
 </p>
 
 We created a synthetic mosaic human DNA sample by spiking 20 500bp oligos with known pathogenic variants into a WT human DNA background. The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism. The concentration also vary between oligos, so that the allele frequency of variants varies between approximately 0.5 and 6 percent. The primary purpose of this sample is to serve as a positive control for pathogenic mosaic variant detection by high throughput sequencing:
