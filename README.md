@@ -5,10 +5,10 @@
 </p>
 
 We created a synthetic mosaic human DNA sample by spiking 20 500bp oligos with known pathogenic variants into a WT human DNA background. The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism. The concentration also vary between oligos, so that the allele frequency of variants varies between approximately 0.5 and 6 percent. The primary purpose of this sample is to serve as a positive control for pathogenic mosaic variant detection by high throughput sequencing:
-- Most variants are placed in MTOR and PIK3CA. We characterise mosaic variant allele frequencies (VAF) in the final sample by ddPCR.
+- Most variants are placed in MTOR and PIK3CA. We characterise mosaic variant allele frequencies (VAF) in the final sample by droplet digital PCR (ddPCR).
 - We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants)
 
-You can request an alliquot of this sample by contacting us.
+You can request an alliquot of this sample by contacting us (Tim Hughes and Asbjørn Holmgren - Department of Medical Genetics - Oslo University Hospital)
 
 
 ### Sample creation and characterisation using ddPCR
