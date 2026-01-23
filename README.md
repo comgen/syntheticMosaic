@@ -23,7 +23,8 @@ You can request an alliquot of this sample by contacting us (Tim Hughes and Asbj
 We performed DNA capture using a whole exome kit and Illumina sequencing of the library
 - [BAM file](020_sampleWholeExomeSeq/synthetic-mosaic_tumor.variantRegions.bam) at the relevant exons is available for inspection in IGV (b37 with decoy reference genome) 
 - The oligos with mutations are covered with sequencing reads in a similar way to WT DNA (IGV screenshots for [AKT3](020_sampleWholeExomeSeq/IGV_screenshots/AKT3.png), [CACNA1D](020_sampleWholeExomeSeq/IGV_screenshots/CACNA1D.png),[PIK3CA](020_sampleWholeExomeSeq/IGV_screenshots/PIK3CA.png))
-- All mosaic variants are represented in the sequencing data. Further, there is no systematic bias of the BAM VAF (tendency to over- or underestimate the ddPCR VAF) and the BAM VAF can be used as an approximate indicator of VAF (“is usually roughly correct” but is not precise).![Comparison of ddPCR VAF and BAM VAF](020_sampleWholeExomeSeq/ddPCR-VAFvsBAM-VAF.png)
+- All mosaic variants are represented in the sequencing data. Further, there is no systematic bias of the BAM VAF (tendency to over- or underestimate the ddPCR VAF) and the BAM VAF can be used as an approximate indicator of VAF (“is usually roughly correct” but is not precise).
+![Comparison of ddPCR VAF and BAM VAF](020_sampleWholeExomeSeq/ddPCR-VAFvsBAM-VAF.png)
 
 
 ### AmpliconSeq of sample
