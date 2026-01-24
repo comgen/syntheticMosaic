@@ -4,11 +4,15 @@
   <img src="logo.jpg" alt="syntheticMosaic Logo" width="300">
 </p>
 
-We created a synthetic mosaic human DNA sample by spiking 20 500bp oligos with known pathogenic variants into a WT human DNA background. The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism. The concentration also vary between oligos, so that the allele frequency of variants varies between approximately 0.5 and 6 percent. The primary purpose of this sample is to serve as a positive control for pathogenic mosaic variant detection by high throughput sequencing:
-- Most variants are placed in MTOR and PIK3CA. We characterise mosaic variant allele frequencies (VAF) in the final sample by droplet digital PCR (ddPCR).
-- We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants)
+We created a synthetic mosaic human DNA sample by spiking 20 500bp oligos with known pathogenic variants into a WT human DNA background. The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism:
+- Different oligos are spliked in at different concentrations so that the variant allele frequencies (VAF) vary between 0.5 and 6 percent.
+- We chose this VAF range because it reflects the range of VAFs typically found in pathogenic mutations in the PIK-AKT-MTOR and MAPK pathways ([Fujita et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36864519/), [Khoshkhoo et al. 2023](https://pubmed.ncbi.nlm.nih.gov/37126322/), [Krochmalnek et al. 2023](https://pubmed.ncbi.nlm.nih.gov/37900581/)).
+- Most variants are placed in MTOR and PIK3CA. We characterise VAF in the final synthetic sample containing all 20 variants by droplet digital PCR (ddPCR VAF).
+- We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants). From the resulting BAM files, we can compute the BAM-VAF.
 
-You can request an alliquot of this sample by contacting us (Tim Hughes and Asbjørn Holmgren - Department of Medical Genetics - Oslo University Hospital)
+The primary purpose of this sample is to serve as a positive control for pathogenic mosaic variant detection by high throughput sequencing.
+
+You can request an alliquot of this sample by contacting us (Tim Hughes and Asbjørn Holmgren - Department of Medical Genetics - Oslo University Hospital).
 
 
 ### Sample creation and characterisation using ddPCR
