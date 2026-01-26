@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  <img src="logo.jpg" alt="syntheticMosaic Logo" width="300">
+  <img src="000_images/logo_brushedSteel.jpg" alt="syntheticMosaic Logo" width="300">
 </p>
 
 We created a synthetic mosaic human DNA sample by spiking twenty 500bp oligos with known pathogenic variants into a WT human DNA background. The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism:
