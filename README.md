@@ -4,7 +4,7 @@
   <img src="000_images/logo_brushedSteel.jpg" alt="syntheticMosaic Logo" width="300">
 </p>
 
-We created a synthetic mosaic human DNA sample by spiking twenty 500bp oligos with known pathogenic variants into a WT human DNA background. The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism:
+We created a synthetic mosaic human DNA sample by spiking twenty 500bp oligos with known pathogenic variants into a WT human DNA background (HG002/GM24385). The oligos are spiked in at low concentrations relative to WT DNA to emulate low grade mosaicism:
 - Different oligos are spiked in at different concentrations so that the variant allele frequencies (VAF) vary between 0.5 and 6 percent.
 - We chose this VAF range because it reflects the range of VAFs typically found in pathogenic mutations in the PIK-AKT-MTOR and MAPK pathways ([Fujita et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36864519/), [Khoshkhoo et al. 2023](https://pubmed.ncbi.nlm.nih.gov/37126322/), [Krochmalnek et al. 2023](https://pubmed.ncbi.nlm.nih.gov/37900581/)).
 - Most variants are placed in MTOR and PIK3CA.
