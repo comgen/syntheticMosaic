@@ -12,7 +12,7 @@ We created a synthetic mosaic human DNA sample by spiking twenty 500bp oligos wi
 - We sequenced this sample by whole exome capture and by ampliconSeq (amplification of the regions bearing mosaic variants). From the resulting BAM files, we can compute the BAM-VAF.
 
 The primary purpose of this sample is to serve as a positive control for pathogenic mosaic variant detection by high throughput sequencing. The strengths of this sample are:
-- "Truth" VAFs are determined by an orthogocal method which is the gold standard of absolute concentration measurement (ddPCR).
+- "Truth" VAFs are determined by an orthogonal method which is the gold standard of absolute concentration measurement (ddPCR).
 - It can be used as an end-to-end control i.e. it is processed through all stages of the analysis pipeline: sample preperation, sequencing, and bioinformatic analysis.
 
 You can request an alliquot of this sample by contacting us (Tim Hughes and Asbjørn Holmgren - Department of Medical Genetics - Oslo University Hospital).
